@@ -8,3 +8,5 @@
 🌱 Our scripts are currently based on AHK!
 
 💬 Feel free to ask us about anything!
+
+Logo made by fusder#3957!
